@@ -58,8 +58,8 @@ you may continue to the section titled ‘Configuring the Project.’
 
 ## Development
 
-Any files that are mentioned from “the Github Repository” can be found here:
-https://github.com/riis/qgccomponenthiding
+Any files that are mentioned from “the Github Repository” can be found above:
+The complete working code in in the “**custom**” directory 
 
 ### Adding the Access Type cc/h files
 
