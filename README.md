@@ -161,7 +161,7 @@ python updateqrc. py
 
 This will be a new view inside the application setup page
 
-1. Under custom/res, create the file, PasswordSettings.qml and copy “ **14** ” from the **Github**
+1. Under custom/res, create the file, PasswordSettings.qml and copy “ **PasswordSettings.qml**” from the **Github**
     **Repository**
 2. In custom/custom.qrc, under the section with the prefix “qml”, add this line:
 ```
