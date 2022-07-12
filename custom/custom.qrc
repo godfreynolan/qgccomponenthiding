@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/qmlimages">
+        <file alias="PaperPlane.svg">res/Images/CustomVehicleIcon.svg</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file alias="MotorComponent.qml">res/Custom/CustomMotorComponent.qml</file>
+        <file alias="CameraComponent.qml">res/Custom/CustomCameraComponent.qml</file>
+        <file alias="RadioComponent.qml">res/Custom/CustomRadioComponent.qml</file>
+        <file alias="SafetyComponent.qml">res/Custom/CustomSafetyComponent.qml</file>
+        <file alias="QGroundControl/Controls/ParameterEditor.qml">res/Custom/CustomParameterEditor.qml</file>
+        <file alias="APMFlightModesComponent.qml">res/Custom/CustomAPMFlightModesComponent.qml</file>
+        <file alias="PX4SimpleFlightModes.qml">res/Custom/CustomPX4SimpleFlightModes.qml</file>
+        <file alias="AirframeComponent.qml">res/Custom/CustomAirframeComponent.qml</file>
+        <file alias="APMAirframeComponent.qml">res/Custom/CustomAPMAirframeComponent.qml</file>
+        <file alias="PowerComponent.qml">res/Custom/CustomPowerComponent.qml</file>
+        <file alias="PX4TuningComponentCopterAll.qml">res/Custom/CustomPX4TuningComponentCopterAll.qml</file>
+        <file alias="PX4TuningComponentCopterAttitude.qml">res/Custom/CustomPX4TuningComponentCopterAttitude.qml</file>
+        <file alias="PX4TuningComponentCopterRate.qml">res/Custom/CustomPX4TuningComponentCopterRate.qml</file>
+        <file alias="PX4TuningComponentCopterVelocity.qml">res/Custom/CustomPX4TuningComponentCopterVelocity.qml</file>
+        <file alias="PX4TuningComponentCopterPosition.qml">res/Custom/CustomPX4TuningComponentCopterPosition.qml</file>
+        <file alias="PX4FlightBehaviorCopter.qml">res/Custom/CustomPX4FlightBehaviorCopter.qml</file>
+        <file alias="APMSafetyComponent.qml">res/Custom/CustomAPMSafetyComponent.qml</file>
+        <file alias="APMCameraComponent.qml">res/Custom/CustomAPMCameraComponent.qml</file>
+        <file alias="APMPowerComponent.qml">res/Custom/CustomAPMPowerComponent.qml</file>
+        <file alias="APMTuningComponentCopter.qml">res/Custom/CustomAPMTuningComponentCopter.qml</file>
+        <file alias="APMMotorComponent.qml">res/Custom/CustomAPMMotorComponent.qml</file>
+        <file alias="QGroundControl/Controls/FlightModeMenu.qml">res/Custom/CustomFlightModeMenu.qml</file>
+        <file alias="QGroundControl/Controls/MainToolBar.qml">res/Custom/CustomMainToolBar.qml</file>
+        <file alias="PasswordSettings.qml">res/PasswordSettings.qml</file>
+    </qresource>
+</RCC>
